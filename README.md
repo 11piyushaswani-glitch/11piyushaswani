@@ -10,6 +10,7 @@ A passionate developer and open source contributor, currently exploring AI, ML, 
    Projects that solve real-world problems
 
    💻 Tech Stack
+   
     **Languages**: Java, C++, C, Python
     **Web Development**: HTML, CSS, JavaScript, PHP, MySQL
     **Core Skills**: Data Structures & Algorithms, Artificial Intelligence, Machine Learning, Database Management
