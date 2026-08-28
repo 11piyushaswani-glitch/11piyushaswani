@@ -1,8 +1,11 @@
 **🚀 About Me**
+
 👋 Hi, I'm **Piyush Aswani**
+
 A passionate developer and open source contributor, currently exploring AI, ML, Full-Stack Development & Software Engineering and practicing Data Structures & Algorithms
 
 📌 What I Like Building
+
    AI-powered applications
    Web-based systems
    Problem-solving projects
@@ -17,6 +20,7 @@ A passionate developer and open source contributor, currently exploring AI, ML, 
     **Tools & Platforms**: Git, GitHub, VS code, Xampp
 
     🌱 Currently Learning
+    
         Full-Stack Web Development
         Cloud & AI Technologies
         Open Source Collaboration Workflows
