@@ -7,7 +7,6 @@ A passionate developer and open source contributor, currently exploring AI, ML, 
 📌 What I Like Building
 
    AI-powered applications
-   
    Web-based systems
    
    Problem-solving projects
